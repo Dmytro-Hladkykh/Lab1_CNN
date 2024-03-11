@@ -33,13 +33,13 @@ The project includes the following components:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/cifar-10-cnn.git
+    git clone https://github.com/Dmytro-Hladkykh/Lab1_CNN
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd cifar-10-cnn
+    cd Lab1_CNN
     ```
 
 3. Install the required dependencies:
