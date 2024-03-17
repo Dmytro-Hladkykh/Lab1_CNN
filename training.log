@@ -1,0 +1,23 @@
+2024-03-18 01:48:12,735 - utils - INFO - Training a new model...
+2024-03-18 01:48:12,741 - utils - INFO - Epoch 1/10:
+2024-03-18 01:48:37,134 - utils - INFO - Train Loss: 1.4837, Val Loss: 1.2154, Val Acc: 0.5626
+2024-03-18 01:48:37,134 - utils - INFO - Epoch 2/10:
+2024-03-18 01:49:03,556 - utils - INFO - Train Loss: 1.0542, Val Loss: 1.0103, Val Acc: 0.6487
+2024-03-18 01:49:03,556 - utils - INFO - Epoch 3/10:
+2024-03-18 01:49:30,619 - utils - INFO - Train Loss: 0.8385, Val Loss: 0.8745, Val Acc: 0.6948
+2024-03-18 01:49:30,619 - utils - INFO - Epoch 4/10:
+2024-03-18 01:49:57,768 - utils - INFO - Train Loss: 0.6846, Val Loss: 0.8672, Val Acc: 0.7025
+2024-03-18 01:49:57,768 - utils - INFO - Epoch 5/10:
+2024-03-18 01:50:24,633 - utils - INFO - Train Loss: 0.5564, Val Loss: 0.8371, Val Acc: 0.7227
+2024-03-18 01:50:24,633 - utils - INFO - Epoch 6/10:
+2024-03-18 01:50:53,350 - utils - INFO - Train Loss: 0.4330, Val Loss: 0.8626, Val Acc: 0.7222
+2024-03-18 01:50:53,350 - utils - INFO - Epoch 7/10:
+2024-03-18 01:51:22,541 - utils - INFO - Train Loss: 0.3225, Val Loss: 0.8761, Val Acc: 0.7341
+2024-03-18 01:51:22,541 - utils - INFO - Epoch 8/10:
+2024-03-18 01:51:50,191 - utils - INFO - Train Loss: 0.2273, Val Loss: 0.9648, Val Acc: 0.7294
+2024-03-18 01:51:50,191 - utils - INFO - Epoch 9/10:
+2024-03-18 01:52:19,401 - utils - INFO - Train Loss: 0.1563, Val Loss: 1.1455, Val Acc: 0.7303
+2024-03-18 01:52:19,401 - utils - INFO - Epoch 10/10:
+2024-03-18 01:52:47,847 - utils - INFO - Train Loss: 0.1100, Val Loss: 1.3243, Val Acc: 0.7243
+2024-03-18 01:52:55,672 - utils - INFO - Performing on example - cat.jpg...
+2024-03-18 01:52:55,688 - utils - INFO - Predicted class for the example image: cat
